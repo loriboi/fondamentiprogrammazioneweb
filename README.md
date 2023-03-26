@@ -2,7 +2,7 @@
 Progetto Lorenzo Boi
 
 Nella repository è possibile trovare:
-- Pagine JSP
+- Pagine JSP e relativo file CSS
 - Files js
 - Immagini delle jsp
 - Servlet
