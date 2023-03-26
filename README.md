@@ -1,4 +1,4 @@
-# fondamentiprogrammazioneweb
+# Stabilimento Balneare
 Progetto Lorenzo Boi
 
 Nella repository è possibile trovare:
