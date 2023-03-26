@@ -9,4 +9,4 @@ Nella repository è possibile trovare:
 - Dump del database utilizzato per i test
 
 
-Nel progetto mancano i file di configurazione generati da netbeans, perciò la repository non è funzionante.
+Nel progetto mancano i file di configurazione generati da netbeans, perciò la repository non è funzionante, si possono comunque importare i files della repo in un progetto.
